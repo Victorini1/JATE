@@ -16,8 +16,8 @@
 
   ## Screenshots
 
-  [Jate in Browser](./Assets/jatescreenshot.png)
-  [Jate in App](./Assets/jateapp.png)
+  ![Jate in Browser](./Assets/jatescreenshot.png) 
+  ![Jate in App](./Assets/jateapp.png)
 
 
 
